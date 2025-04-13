@@ -1,0 +1,48 @@
+﻿@model IEnumerable<BookLendingSystem.Models.Borrower>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Add Borrower", "Create", "Borrowers", new {@class="btn btn-lg btn-primary"})
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.BorrowerId }, new {@class="btn btn-primary"}) &nbsp;
+                    @Html.ActionLink("Delete", "Delete", new { id = item.BorrowerId }, new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+}
+        </tbody>
+
+</table>

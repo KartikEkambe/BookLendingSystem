@@ -1,0 +1,54 @@
+﻿@model IEnumerable<BookLendingSystem.Models.LendingRecord>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Add New", "Create", new {@class="btn btn-lg btn-primary"})
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Book.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Borrower.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateBorrowed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateReturned)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Borrower.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateBorrowed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateReturned)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.LendingRecordId }, new { @class = "btn btn-primary" }) &nbsp;
+                    @Html.ActionLink("Delete", "Delete", new { id = item.LendingRecordId }, new { @class = "btn btn-primary" })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

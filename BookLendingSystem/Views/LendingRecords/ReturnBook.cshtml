@@ -1,0 +1,25 @@
+﻿@model BookLendingSystem.Models.LendingRecord
+@{
+    ViewBag.Title = "ReturnBook";
+}
+
+<h2>ReturnBook</h2>
+<div class=" container">
+    <div class="form-group">
+        <h4>Book : @Model.Book.Title</h4>
+        <h4>Borrower : @Model.Borrower.Name</h4>
+        <h4>Date Borrowed : @Model.DateBorrowed.ToShortDateString()</h4>
+    </div>
+
+    @using (Html.BeginForm("ReturnBook", "LendingRecords", FormMethod.Post))
+    {
+        @Html.HiddenFor(l => l.LendingRecordId);
+        <div class="form-group">
+            <label>Date Returned :</label>
+            @Html.TextBoxFor(l => l.DateReturned, new { @class = "form-control", type = "date", required = "required" })
+        </div>
+        <button type="submit" value="Submit" class="btn btn-primary">Confirm Return</button>  <br />
+        @Html.ActionLink("Back to List", "Index", "LendingRecords", new { @class = "btn btn-info" })
+
+    }
+</div>
