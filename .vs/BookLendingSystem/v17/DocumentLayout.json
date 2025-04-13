@@ -3,88 +3,88 @@
   "WorkspaceRootPath": "D:\\BookLendingSystemProject\\BookLendingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\lendingrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\lendingrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Controllers\\LendingRecordsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Controllers\\LendingRecordsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\controllers\\lendingrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\controllers\\lendingrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\lendingrecords\\returnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\lendingrecords\\returnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\LendingRecords\\ReturnBook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\LendingRecords\\ReturnBook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\borrowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\borrowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\LendingRecords\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\LendingRecords\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\LendingRecords\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\LendingRecords\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\models\\lendingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\models\\lendingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Borrowers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\Borrowers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\lendingrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\lendingrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Borrowers\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\Borrowers\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Borrowers\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\Borrowers\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Controllers\\BorrowersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Controllers\\BorrowersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\controllers\\borrowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\controllers\\borrowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Books\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\Books\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\borrowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\borrowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Books\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\Books\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\borrowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\borrowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Migrations\\202503260931411_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Migrations\\202503260931411_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\migrations\\202503260931411_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\migrations\\202503260931411_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\LendingRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Models\\LendingRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\Borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Models\\Borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|d:\\booklendingsystemproject\\booklendingsystem\\booklendingsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{119A187A-3C7B-4B9C-933B-B2F3D69F2E4F}|BookLendingSystem\\BookLendingSystem.csproj|solutionrelative:booklendingsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookLendingSystem\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\App_Start\\RouteConfig.cs",
@@ -107,8 +107,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T09:34:19.14Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T11:03:19.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:03:19.149Z"
             },
             {
               "$type": "Document",
@@ -137,25 +135,23 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\LendingRecords\\ReturnBook.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T10:52:37.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T10:52:37.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\LendingRecords\\Create.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\LendingRecords\\Create.cshtml",
               "ToolTip": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\LendingRecords\\Create.cshtml",
               "RelativeToolTip": "BookLendingSystem\\Views\\LendingRecords\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T10:34:54.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T10:34:54.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\LendingRecords\\Index.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\LendingRecords\\Index.cshtml",
@@ -163,12 +159,11 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\LendingRecords\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T10:13:04.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T10:13:04.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LendingRecordsController.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Controllers\\LendingRecordsController.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Controllers\\LendingRecordsController.cs",
@@ -181,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Borrowers\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\Borrowers\\Edit.cshtml",
@@ -189,12 +184,11 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\Borrowers\\Edit.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T10:06:15.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T10:06:15.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Borrowers\\Create.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\Borrowers\\Create.cshtml",
@@ -202,12 +196,11 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\Borrowers\\Create.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T10:02:26.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T10:02:26.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Borrowers\\Index.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\Borrowers\\Index.cshtml",
@@ -215,12 +208,11 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\Borrowers\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T09:56:33.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:56:33.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "BorrowersController.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Controllers\\BorrowersController.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Controllers\\BorrowersController.cs",
@@ -228,12 +220,11 @@
               "RelativeToolTip": "BookLendingSystem\\Controllers\\BorrowersController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAlwD4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:55:32.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:55:32.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Books\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\Books\\Edit.cshtml",
@@ -241,12 +232,11 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\Books\\Edit.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T09:47:19.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:47:19.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\Books\\Create.cshtml",
@@ -254,12 +244,11 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\Books\\Create.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T09:40:20.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:40:20.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "BookLendingSystem\\Views\\Books\\Index.cshtml",
@@ -267,8 +256,7 @@
               "RelativeToolTip": "BookLendingSystem\\Views\\Books\\Index.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAC8AAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T09:36:18.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:36:18.701Z"
             },
             {
               "$type": "Document",
@@ -280,12 +268,11 @@
               "RelativeToolTip": "BookLendingSystem\\Controllers\\BooksController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:34:07.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:34:07.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "202503260931411_initialMigration.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Migrations\\202503260931411_initialMigration.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Migrations\\202503260931411_initialMigration.cs",
@@ -293,12 +280,11 @@
               "RelativeToolTip": "BookLendingSystem\\Migrations\\202503260931411_initialMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:32:04.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:32:04.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "Configuration.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Migrations\\Configuration.cs",
@@ -306,12 +292,11 @@
               "RelativeToolTip": "BookLendingSystem\\Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:30:41.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:30:41.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Models\\ApplicationDbContext.cs",
@@ -319,12 +304,11 @@
               "RelativeToolTip": "BookLendingSystem\\Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:26:24.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:26:24.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "LendingRecord.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\LendingRecord.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Models\\LendingRecord.cs",
@@ -332,12 +316,11 @@
               "RelativeToolTip": "BookLendingSystem\\Models\\LendingRecord.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:21:38.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:21:38.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Borrower.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\Borrower.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Models\\Borrower.cs",
@@ -345,12 +328,11 @@
               "RelativeToolTip": "BookLendingSystem\\Models\\Borrower.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:18:52.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:18:52.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\BookLendingSystemProject\\BookLendingSystem\\BookLendingSystem\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookLendingSystem\\Models\\Book.cs",
@@ -358,8 +340,7 @@
               "RelativeToolTip": "BookLendingSystem\\Models\\Book.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:11:43.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:11:43.605Z"
             },
             {
               "$type": "Document",
@@ -371,8 +352,7 @@
               "RelativeToolTip": "BookLendingSystem\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-26T09:09:50.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:09:50.627Z"
             }
           ]
         }
